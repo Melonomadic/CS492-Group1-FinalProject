@@ -6,6 +6,19 @@ A system for customers of an airline company to purchase tickets and reserve sea
 * Shelton Like - TBD
 * Alec Morton - TBD
 
+## Run the flight search form
+
+Run the desktop form with Python 3:
+
+```bash
+python main.py
+```
+
+The form requires a flight number, departing airport, destination airport, and
+date of flight. Use a flight number such as `UA123`, 3-letter airport codes,
+and a real date in `YYYY-MM-DD` format. The departing and destination airports
+must differ. Flight results require a connected flight data source.
+
 [Documentation](https://livecoloradotech-my.sharepoint.com/:f:/r/personal/alec_morton_student_ctuonline_edu/Documents/CS492-Group%201?d=w722e01b5d4974c11a7e2304fdc2d87bd&csf=1&web=1&e=GeQK9U)
 
 **How to Contribute**
